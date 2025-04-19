@@ -15,6 +15,9 @@ migrate_working_dir/
 firebase.json
 firestore.indexes.json
 firestore.rules
+android/app/google-services.json
+lib/firebase_options.dart
+
 # IntelliJ related
 *.iml
 *.ipr
